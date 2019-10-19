@@ -6,7 +6,7 @@ github_repo: ara-android
 github_username: fultonbrowne
 theme_color: black
 remote_theme: internet-de-france/swiss
-baseurl: /
+baseurl: /web/
 defaults:
   - scope:
       path: ''

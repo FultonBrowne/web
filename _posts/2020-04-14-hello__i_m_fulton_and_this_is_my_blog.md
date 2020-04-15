@@ -8,6 +8,5 @@ You may be wondering what experience I have. I am currently working on several o
 
 Some non programming things to know about me. I live in the Portland Oregon area, I am coffee snob, and love R.E.M's music.
 
-In closing, I hope you enjoyed this first post. if you want you can buy me a coffee https://www.buymeacoffee.com/28EcqNL or help support me by buying some of the computers I am selling on ebay https://www.ebay.com/itm/Dell-precision-3610-16-gigs-ram-6-core-zeon-e5/153834910618 that would be awesome, I hope to write a post about once a week, so see you then :]
+In closing, I hope you enjoyed this first post. if you want you can buy me a coffee [here](https://www.buymeacoffee.com/28EcqNL) or help support me by buying some of the computers I am selling on ebay [here](https://www.ebay.com/itm/Dell-precision-3610-16-gigs-ram-6-core-zeon-e5/153834910618) and [here](https://www.ebay.com/itm/153834406902) that would be awesome, I hope to write a post about once a week, so see you then :]
 
-https://www.ebay.com/itm/153834406902

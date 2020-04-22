@@ -9,7 +9,9 @@ Decentralized technologies have existed longer than the internet itself with the
 Last of all is blockchain, I could do an entire post on blockchain (and I will) but here is a quick overview:  
 >A blockchain is a growing list of records, called blocks, that are linked using cryptography.  Each block contains a cryptographic hash of the previous block,[6] a timestamp, and transaction data (generally represented as a Merkle tree).
 
- - [Wikipedia](https://en.wikipedia.org/wiki/Blockchain) 
+ - -[Wikipedia](https://en.wikipedia.org/wiki/Blockchain) 
+
+
 We will not be going into blockchain based static sites or apps today, but you can expect that in the near future. Ok, let’s get into some coding…
  
 We are going to deploy a simple static site using decentralized technologies, storing a basic site on IPFS, a decentralized storage protocol.  This is pretty easy.  First, we need a static site, because I’m lazy I’m going to make a really basic site. 

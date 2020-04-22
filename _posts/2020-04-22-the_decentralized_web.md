@@ -18,6 +18,8 @@ We are going to deploy a simple static site using decentralized technologies, st
 <h1>Hello IPFS world</h1>
 ```
 You need to download the IPFS utilities and appropriate browser extension [here](https://ipfs.io/#install). Then make a directory and place the html file there, go to ipfs status (there’s a button to that in the browser extension and the hot bar dropdown), select the files tab and upload the folder by hitting 'add'.
+
+
 ![2020-04-03-167405.png](https://fulton.software/web/assets/2020-04-03-167405.png)
 
 ![2020-04-03-196768.png](https://fulton.software/web/assets/2020-04-03-196768.png)
